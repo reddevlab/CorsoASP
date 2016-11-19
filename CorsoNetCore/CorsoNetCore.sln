@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79AD2B78-10EC-4C4F-A22B-922BBAD2AFCB}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Static", "Static", "{85300B0F-F7E5-4D06-8893-8379AC94A6A8}"
+	ProjectSection(SolutionItems) = preProject
+		CorsoDemoStatico.html = CorsoDemoStatico.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{85300B0F-F7E5-4D06-8893-8379AC94A6A8} = {79AD2B78-10EC-4C4F-A22B-922BBAD2AFCB}
+	EndGlobalSection
+EndGlobal
