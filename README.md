@@ -8,3 +8,9 @@ Appena so cosa farà, lo descriverò.
 loere re re re loere re re re loere re re re loere re re re 
 
 ##Lezione 2
+Annullata!
+
+##Funzioni richieste
+* Prima
+* Seconda
+* Quarta. _la seconda non c'è_
