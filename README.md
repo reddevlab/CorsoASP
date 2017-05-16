@@ -10,6 +10,9 @@ loere re re re loere re re re loere re re re loere re re re
 ##Lezione 2
 Annullata!
 
+##Lezione 3
+Test di GitHub desktop
+
 ##Funzioni richieste
 * Prima
 * Seconda
